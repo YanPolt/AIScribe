@@ -95,6 +95,8 @@ El objetivo principal de AIScribe es mejorar la calidad y eficiencia de la docum
 
 ## **Arquitectura**
 ![image](https://github.com/YanPolt/AIScribe/assets/60269986/8c665f16-ec61-4e4f-a862-49c6d16d2f6d)
+![image](https://github.com/YanPolt/AIScribe/assets/60269986/06c6ccea-ef60-4046-a028-624acbad8df5)
+
 - **API**: Desarrollada en Python 3.10, dockerizada y hospedada en Azure App Services.
 - **Plugin VSC**: Desarrollado en Node.js, siguiendo estándares de Visual Studio Code.
 
