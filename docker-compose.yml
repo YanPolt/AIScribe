@@ -1,0 +1,13 @@
+version: "3"
+services:
+  fastapi:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=01e42ec8f0f5463abb6a39d47def2e44
+
+#  redis:
+#    image: "redis:latest"
+#    ports:
+#      - "6379:6379"

@@ -90,11 +90,11 @@ El objetivo principal de AIScribe es mejorar la calidad y eficiencia de la docum
 1. Activar la extensión con **`aiscribe:activate`**.
 2. Utilizar comandos **`/prompt`** y **`/snippet`** para generar documentación.
 3. Utilizar **`aiscribe:simplify`** para simplificar la documentación.
-
+4. Para ejecutar cada uno de estos codigos es importante que se ejecute el comando **`run commands`** en la barra de busqueda de Visual Studio Code.
 ---
 
 ## **Arquitectura**
-
+![image](https://github.com/YanPolt/AIScribe/assets/60269986/8c665f16-ec61-4e4f-a862-49c6d16d2f6d)
 - **API**: Desarrollada en Python 3.10, dockerizada y hospedada en Azure App Services.
 - **Plugin VSC**: Desarrollado en Node.js, siguiendo estándares de Visual Studio Code.
 
